@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'aldaot';
+    src: url(../font/AldaOT-Regular.woff2);
+}
+
+@font-face {
+    font-family: 'nylic-regular';
+    src: url(../font/NYLICEffra_Std_Rg.ttf);
+}
+
+@font-face {
+    font-family: 'nylic-bold';
+    src: url(../font/NYLICEffra_Std.ttf);
+}
+
+span {
+    font-family: 'nylic-bold';
+}
+
+p {
+    font-family: 'nylic-regular';
+}
